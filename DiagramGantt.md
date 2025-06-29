@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Roadmap разработки GitRepoManager
     dateFormat  YYYY-MM-DD
